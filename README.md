@@ -1,8 +1,6 @@
 <h1>Hi 👋, I'm Jorge Mustafa</h1>
 <h3>A passionate Fullstack Developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Grupo Tour House](https://www.linkedin.com/in/grupo-tour-house-97b02737/)
-
 - 👨‍💻 My website [https://jorgemustafa.com.br](https://jorgemustafa.com.br)
 
 - 📫 How to reach me **jorginhomustafa@gmail.com**

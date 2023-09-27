@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **jorginhomustafa@gmail.com**
 
-- 📄 Know profile on LinkedIn [https://www.linkedin.com/in/jorge-mustafa/](https://www.linkedin.com/in/jorge-mustafa/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jorge-mustafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorge-mustafa" height="30" width="40" /></a>

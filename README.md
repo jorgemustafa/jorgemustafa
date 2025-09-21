@@ -17,7 +17,6 @@ I'm passionate about building robust web applications and scalable solutions. I 
 
 - Linkedin: https://www.linkedin.com/in/jorge-mustafa/
 - Email: **jorginhomustafa@gmail.com**
-- WhatsApp: +55 (11) 99920-7692
 
 ---
 

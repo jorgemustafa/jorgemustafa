@@ -1,20 +1,8 @@
-<h1 align="center">Hi, I'm Jorge Mustafa 👋</h1>
-<h3 align="center">Fullstack Developer from Brazil</h3>
-
-<p align="center">
-  <a href="https://jorgemustafa.com.br" target="_blank"><strong>🌐 Visit my website</strong></a>
-</p>
-
----
-
-### 👨‍💻 About Me
-
-I'm passionate about building robust web applications and scalable solutions. I enjoy working across the stack, from designing APIs to crafting beautiful user interfaces. Always looking for new opportunities to learn and improve myself...
-
----
+<h1 align="center">What's up? I'm Jorge Mustafa 👋</h1>
 
 ### 📫 How to reach me
 
+- My website: https://jorgemustafa.com.br
 - Linkedin: https://www.linkedin.com/in/jorge-mustafa/
 - Email: **jorginhomustafa@gmail.com**
 
@@ -56,7 +44,4 @@ I'm passionate about building robust web applications and scalable solutions. I 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-  <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="aws" width="60" height="32"/>
-</a>
 </p>

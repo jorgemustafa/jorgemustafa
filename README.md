@@ -2,9 +2,7 @@
 
 ### 📫 How to reach me
 
-- My website: https://jorgemustafa.com.br
 - Linkedin: https://www.linkedin.com/in/jorge-mustafa/
-- Email: **jorginhomustafa@gmail.com**
 
 ---
 
